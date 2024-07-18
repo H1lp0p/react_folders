@@ -1,0 +1,14 @@
+.fileObject{
+    font-size: calc(10px + 1vmin);
+    border-radius: 8px;
+    width: 128px;
+    height: auto;
+}
+
+.fileObject>p{
+    margin: 0;
+}
+
+.fileObject:hover{
+    background-color: #bfcad8;
+}

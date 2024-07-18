@@ -1,0 +1,7 @@
+.dirPanel{
+    display: grid;
+    gap: 8px;
+    background-color: #dcedff;
+    padding: 8px;
+    border-radius: 16px;
+}
